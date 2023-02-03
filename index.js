@@ -1,4 +1,5 @@
 const version = 4;
+const plane = true;
 console.log('My application code code');
 
 const scream = () => {

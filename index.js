@@ -13,4 +13,6 @@ const widget = () => {
     console.log('something new')
 }
 
-//testing
+const user = () => {
+    alert('some other code');
+}

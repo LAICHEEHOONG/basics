@@ -4,3 +4,9 @@ console.log('My application code code');
 const scream = () => {
     console.log("Ahhhhhhh");
 }
+
+//////
+
+const widget = () => {
+    alert('widget');
+}

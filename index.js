@@ -18,3 +18,6 @@ const auth = () => {
 }
 
 const bossFix = "the fix for my bass";
+
+///
+const statshContent = "Some content";

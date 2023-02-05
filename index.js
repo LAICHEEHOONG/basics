@@ -21,3 +21,4 @@ const bossFix = "the fix for my bass";
 
 ///
 const statshContent = "Some content";
+console.log('some changes 1');

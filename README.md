@@ -12,3 +12,5 @@ another change ...continued
 ///
 change from adam
 mychange
+//
+this is from clone
